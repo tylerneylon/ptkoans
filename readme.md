@@ -11,5 +11,7 @@
 - 7 Train word2vec
 - [Koan 8](https://github.com/tylerneylon/ptkoans/tree/master/koan_8) Train a VAE on images
 - 9 Sentiment analysis with an RNN
+- 10 Semantic embeddings with sBERT
 - 11 A small version of GPT
 - 12 A custom constrained optimization problem
+- 13 A small stable diffusion model
